@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Computer
 - 🌱 I’m currently learning ... Everthing
 - 💞️ I’m looking to collaborate on ... Something
-- 📫 How to reach me ... Don't
+- 📫 How to reach me ... hitesh3rd@gmail.com
 
 <!---
 HiteshAroraCool/HiteshAroraCool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
