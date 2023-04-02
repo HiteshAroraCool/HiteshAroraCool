@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HiteshAroraCool
 - 👀 I’m interested in ... Computer
 - 🌱 I’m currently learning ... Everthing
-- 💞️ I’m looking to collaborate on ... Something
+- 💞️ I’m looking to collaborate on ... Everthing
 - 📫 How to reach me ... hitesh3rd@gmail.com
 - My Kaggle profile: https://www.kaggle.com/bcscuwe1/code?userId=5950393&sortBy=dateRun&tab=profile&privacy=null
 
