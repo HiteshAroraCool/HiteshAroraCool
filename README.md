@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Everything
 - 💞️ I’m looking to collaborate on ... Everything
 - 📫 How to reach me ... hitesh3rd@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hitesh-arora-luke/
 - My Kaggle profile: https://www.kaggle.com/bcscuwe1/code?userId=5950393&sortBy=dateRun&tab=profile&privacy=null
 
 <!---
