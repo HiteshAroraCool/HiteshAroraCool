@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HiteshAroraCool
+- 👋 Hi, I’m Hitesh Arora
 - 👀 I’m interested in ... Computer
 - 🌱 I’m currently learning ... Everything
 - 💞️ I’m looking to collaborate on ... Everything
