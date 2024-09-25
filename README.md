@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hitesh Arora
-- 👀 I’m interested in ... Computer
-- 🌱 I’m currently learning ... Everything
+- 👀 I’m interested in ... Tech, Art, Car Racing, Fitness.
+- 🌱 I’m currently learning ... Flask
 - 💞️ I’m looking to collaborate on ... Everything
 - 📫 How to reach me ... hitesh3rd@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hitesh-arora-luke/
